@@ -52,6 +52,7 @@ in virtual enviroment
 ![ ](tree.png?raw=true "Title")
 
 reference
+
 [SQLAlchemy Migrations Using Flask-Migrate](https://www.youtube.com/watch?v=BAOfjPuVby0&t=393s)
 
 
