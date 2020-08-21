@@ -45,3 +45,8 @@ in virtual enviroment
     (DB_Mg_env) $ python apps.py db upgrade
 
  disconnect Dbeaver postgres local, reconnect, schemas should be modified.
+ 
+ Alembic and version controll
+
+
+![ ](tree.png?raw=true "Title")
