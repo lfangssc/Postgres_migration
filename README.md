@@ -35,7 +35,9 @@ in virtual enviroment
 Dbeaver connect postgres local, schemas should be generated 
 
 migrate db, for example delecte one column in DB schema
+
 delecte the ORM in app.py
+
 in virtual enviroment
 
     (DB_Mg_env) $ python apps.py db init
