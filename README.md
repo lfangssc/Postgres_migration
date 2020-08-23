@@ -32,7 +32,7 @@ in virtual enviroment
     (DB_Mg_env) $ python apps.py db migrate
     (DB_Mg_env) $ python apps.py db upgrade
     
-Dbeaver connect postgres local, schemas should be generated 
+Dbeaver connect postgres local, schemas should be generated (using migrate, no need SQL create Table in DB to define Schmea)  
 
 migrate db, for example delecte one column in DB schema
 
